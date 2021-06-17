@@ -25,3 +25,4 @@
 * https://github.com/adriantoine/enzyme-to-json
 * https://webpack.js.org
 * http://expressjs.com/
+* http://numeraljs.com/
